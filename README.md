@@ -4,7 +4,7 @@
 
 I'm a BSIT student passionate about building functional, user-friendly, and practical digital solutions.
 
-I enjoy working across the development process—from designing user interfaces and user flows to developing frontend and backend systems, integrating databases and APIs, and turning ideas into working applications.
+I enjoy working across the development process from designing user interfaces and user flows to developing frontend and backend systems, integrating databases and APIs, and turning ideas into working applications.
 
 I'm also interested in **Artificial Intelligence, Natural Language Processing, and intelligent applications**, particularly how AI can be integrated into real-world systems to create smarter and more helpful user experiences.
 
